@@ -17,27 +17,34 @@ html,body{
 }
 #page1{
   background: rgba(255,150,40,.6);
-  width: 100vw;
-  height: 100vh;
+
   position: relative;
 }
 #page2{
   background: rgba(255,140,40,.6);
-  width: 100vw;
-  height: 100vh;
+
   position: relative;
 }
 #page3{
   background: rgba(255,130,40,.6);
-  width: 100vw;
-  height: 100vh;
+
   position: relative;
 }
 #page4{
   background: rgba(255,120,40,.6);
-  width: 100vw;
-  height: 100vh;
+
   position: relative;
+}
+#page5{
+  background: rgba(255,115,40,.6);
+
+  position: relative;
+}
+#page6{
+  background: rgba(255,110,40,.6);
+}
+#page7{
+  background: rgba(255,100,40,.6);
 }
 canvas{
   max-width: 100vw;
